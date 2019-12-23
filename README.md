@@ -1,5 +1,9 @@
 # Xcode-Colors
-My color scheme for xcode
+My color scheme for xcode.
 
-Save to the following directory:
+Clone, and run 
+
+`cp AlPal.xccolortheme Customized\ Dusk.xccolortheme Default\ \(Dark\).xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+
+To save to the following directory:
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
